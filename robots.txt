@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://SuperKetchup.github.io/sitemap.xml 
