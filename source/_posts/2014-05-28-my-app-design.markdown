@@ -3,7 +3,7 @@ layout: post
 title: "Android REST"
 date: 2014-05-28 17:20:12 +0800
 comments: true
-categories: app framework
+categories: app_framework
 ---
 
 ##关于开发框架
