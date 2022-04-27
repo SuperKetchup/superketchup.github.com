@@ -1,0 +1,16 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "X2325DPAAJ.com.zeasn.technical.phone.frames",
+                "paths": [ "/skill/link/*"],
+    "components": [ 
+                    {
+                       "/": "/skill/link/*",
+                    }
+                ]
+            }
+        ]
+    }
+}
