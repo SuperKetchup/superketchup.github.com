@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.zeasn.technical.phone.frames",
+    "sha256_cert_fingerprints":
+    ["23:10:E0:6D:95:C3:15:95:95:45:6F:BE:71:73:02:5C:41:1A:92:0F:4F:D9:06:92:E3:D6:C4:DA:E2:A4:88:A1"]
+  }
+}]
