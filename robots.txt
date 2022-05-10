@@ -1,5 +1,6 @@
 User-agent: *
-Allow:/.well-known/assetlinks.json
-Disallow: 
+Allow
+: /.well-known/assetlinks.json
+: /.well-known/
 
 Sitemap: http://SuperKetchup.github.io/sitemap.xml 
