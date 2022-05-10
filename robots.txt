@@ -1,4 +1,5 @@
 User-agent: *
 Disallow: 
+Allow : /.well-known/
 
 Sitemap: http://SuperKetchup.github.io/sitemap.xml 
