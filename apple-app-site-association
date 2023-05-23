@@ -7,7 +7,7 @@
                 "paths": ["/skill/link/*"],
     "components": [ 
                     {
-                       "/": "/skill/link/*",
+                       "/": "/skill/link/*"
                     }
                 ]
             }
