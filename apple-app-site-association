@@ -3,11 +3,14 @@
         "apps": [],
         "details": [
             {
-                "appIDs": ["9UMYXAX5HU.com.idolphin.technical.phone.frames"],
-                "paths": ["/skill/link/*"],
+                "appIDs": ["X2325DPAAJ.com.zeasn.technical.phone.frames","9UMYXAX5HU.com.idolphin.technical.phone.frames"],
+                "paths": ["/skill/link/*","/skill/link/idolphin/*"],
     "components": [ 
                     {
                        "/": "/skill/link/*",
+                    },
+		    {
+                       "/": "/skill/link/idolphin/*",
                     }
                 ]
             }
