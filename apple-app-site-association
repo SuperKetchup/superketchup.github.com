@@ -3,11 +3,11 @@
         "apps": [],
         "details": [
             {
-                "appIDs": ["9UMYXAX5HU.com.kmt.idol.frame"],
-                "paths": ["/skill/link/*"],
+                "appIDs": ["X2325DPAAJ.com.zeasn.technical.phone.frames","9UMYXAX5HU.com.kmt.idol.frame"],
+                "paths": [ "/skill/link/*"],
     "components": [ 
                     {
-                       "/": "/skill/link/*"
+                       "/": "/skill/link/*",
                     }
                 ]
             }
