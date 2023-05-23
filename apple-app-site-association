@@ -3,8 +3,8 @@
         "apps": [],
         "details": [
             {
-                "appIDs": ["X2325DPAAJ.com.zeasn.technical.phone.frames","9UMYXAX5HU.com.kmt.idol.frame"],
-                "paths": [ "/skill/link/*"],
+                "appIDs": ["9UMYXAX5HU.com.idolphin.technical.phone.frames"],
+                "paths": ["/skill/link/*"],
     "components": [ 
                     {
                        "/": "/skill/link/*",
