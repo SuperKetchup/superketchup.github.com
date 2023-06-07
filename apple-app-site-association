@@ -3,7 +3,7 @@
         "apps": [],
         "details": [
             {
-                "appIDs": ["9UMYXAX5HU.com.idolphin.technical.phone.frames"],
+                "appIDs": ["9UMYXAX5HU.com.kmt.idol.frame"],
                 "paths": ["/skill/link/*"],
     "components": [ 
                     {
