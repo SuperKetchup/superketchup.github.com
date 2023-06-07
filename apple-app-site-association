@@ -3,7 +3,7 @@
         "apps": [],
         "details": [
             {
-                "appIDs": ["9UMYXAX5HU.com.kmt.idol.frame"],
+                "appIDs": ["X2325DPAAJ.com.ShareExtension.test"],
                 "paths": ["/skill/link/*"],
     "components": [ 
                     {
